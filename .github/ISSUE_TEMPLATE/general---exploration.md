@@ -11,7 +11,7 @@ assignees: ''
 
 #### Goal / Point of this exploration
 
-## Feature Behaviour / Deliverable
+## Intended Feature Behaviour / Deliverable
 
 
 Deliverable:
